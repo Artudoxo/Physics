@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Physics</string>
+    <string name="tiempo">Tiempo. H</string>
+    <string name="distancia">Distancia. Km</string>
+    <string name="resultado">¿Cual sera la velocidad en Km/h ?</string>
+    <string name="numbers">1234567890</string>
+</resources>
